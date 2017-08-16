@@ -23,4 +23,3 @@ Check following URLs (running this example on your localhost):
 1. [Swagger API listing](http://localhost:8080/Spring4WithSwagger/rest/api-docs/)
 2. [Swagger API documentation](http://localhost:8080/Spring4WithSwagger/rest/api-docs/products)
 3. [Swagger UI](http://localhost:8080/Spring4WithSwagger/apidocs/)
-# Spring4WithSwagger
